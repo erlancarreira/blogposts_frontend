@@ -41,6 +41,7 @@ blog-app/
 │   │   └── post/     # Rotas de posts
 │   └── (public)/     # Rotas públicas
 ├── components/       # Componentes reutilizáveis
+├── constants/        # Variaveis do projeto 
 ├── context/          # Contextos do React
 ├── hooks/            # Hooks personalizados
 ├── services/         # Serviços e API
@@ -49,11 +50,6 @@ blog-app/
 ```
 
 ## Configuração de Desenvolvimento
-
-### Variáveis de Ambiente
-O projeto usa as seguintes variáveis de ambiente:
-
-- `API_URL`: URL base da API
 
 ### Scripts Disponíveis
 
